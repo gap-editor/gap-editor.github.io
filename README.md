@@ -1,1 +1,1 @@
-# gapvideoeditor.github.io
+# gap-videoeditor.github.io

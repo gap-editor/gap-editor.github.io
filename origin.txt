@@ -1,0 +1,360 @@
+Uri: https://zap-editor.github.io/
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\index.htm
+Content Type: text/html
+
+Uri: https://zap-editor.github.io/images/background.png
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\images\background.png
+Content Type: image/png
+
+Uri: https://zap-editor.github.io/images/back-image5.png
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\images\back-image5.png
+Content Type: image/png
+
+Uri: https://zap-editor.github.io/images/back-image3.png
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\images\back-image3.png
+Content Type: image/png
+
+Uri: https://zap-editor.github.io/images/favicon.png
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\images\favicon.png
+Content Type: image/png
+
+Uri: https://zap-editor.github.io/images/apple-touch-icon-57x57.png
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\images\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://zap-editor.github.io/images/apple-touch-icon-72x72.png
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\images\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://zap-editor.github.io/images/apple-touch-icon-114x114.png
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\images\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://zap-editor.github.io/css/animate.css
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\css\animate.css
+Content Type: text/css
+
+Uri: https://zap-editor.github.io/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://zap-editor.github.io/css/et-line-icons.css
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\css\et-line-icons.css
+Content Type: text/css
+
+Uri: https://zap-editor.github.io/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://zap-editor.github.io/css/themify-icons.css
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://zap-editor.github.io/css/swiper.min.css
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://zap-editor.github.io/css/justified-gallery.min.css
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\css\justified-gallery.min.css
+Content Type: text/css
+
+Uri: https://zap-editor.github.io/css/magnific-popup.css
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://zap-editor.github.io/revolution/css/settings.css
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\revolution\css\settings.css
+Content Type: text/css
+
+Uri: https://zap-editor.github.io/revolution/css/layers.css
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\revolution\css\layers.css
+Content Type: text/css
+
+Uri: https://zap-editor.github.io/revolution/css/navigation.css
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\revolution\css\navigation.css
+Content Type: text/css
+
+Uri: https://zap-editor.github.io/css/bootsnav.css
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\css\bootsnav.css
+Content Type: text/css
+
+Uri: https://zap-editor.github.io/css/style.css
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\css\style.css
+Content Type: text/css
+
+Uri: https://zap-editor.github.io/css/responsive.css
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\css\responsive.css
+Content Type: text/css
+
+Uri: https://zap-editor.github.io/images/logo_light.png
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\images\logo_light.png
+Content Type: image/png
+
+Uri: https://zap-editor.github.io/video/video1.mp4
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\video\video1.mp4
+Content Type: video/mp4
+
+Uri: https://zap-editor.github.io/video/video2.mp4
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\video\video2.mp4
+Content Type: video/mp4
+
+Uri: https://zap-editor.github.io/video/video3.mp4
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\video\video3.mp4
+Content Type: video/mp4
+
+Uri: https://zap-editor.github.io/js/jquery.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/modernizr.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\modernizr.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/jquery.easing.1.3.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/skrollr.min.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\skrollr.min.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/smooth-scroll.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\smooth-scroll.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/jquery.appear.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/bootsnav.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\bootsnav.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/jquery.nav.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\jquery.nav.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/wow.min.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/page-scroll.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\page-scroll.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/swiper.min.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/jquery.count-to.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\jquery.count-to.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/jquery.stellar.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\jquery.stellar.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/jquery.magnific-popup.min.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/isotope.pkgd.min.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/imagesloaded.pkgd.min.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/classie.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\classie.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/hamburger-menu.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\hamburger-menu.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/counter.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\counter.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/jquery.fitvids.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\jquery.fitvids.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/equalize.min.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\equalize.min.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/skill.bars.jquery.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\skill.bars.jquery.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/justified-gallery.min.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\justified-gallery.min.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/jquery.easypiechart.min.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\jquery.easypiechart.min.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/instafeed.min.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\instafeed.min.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/retina.min.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\retina.min.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/js/main.js
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\js\main.js
+Content Type: application/javascript
+
+Uri: https://zap-editor.github.io/fonts/glyphicons-halflings-regular.eot
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zap-editor.github.io/fonts/glyphicons-halflings-regular.eot?
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zap-editor.github.io/fonts/glyphicons-halflings-regular.woff2
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://zap-editor.github.io/fonts/glyphicons-halflings-regular.woff
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://zap-editor.github.io/fonts/glyphicons-halflings-regular.ttf
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://zap-editor.github.io/fonts/glyphicons-halflings-regular.svg
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://zap-editor.github.io/fonts/et-line.eot
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\et-line.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zap-editor.github.io/fonts/et-line.eot?
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\et-line-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zap-editor.github.io/fonts/et-line.woff
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\et-line.woff
+Content Type: font/woff
+
+Uri: https://zap-editor.github.io/fonts/et-line.ttf
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\et-line.ttf
+Content Type: font/ttf
+
+Uri: https://zap-editor.github.io/fonts/et-line.svg
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\et-line.svg
+Content Type: image/svg+xml
+
+Uri: https://zap-editor.github.io/fonts/fa-brands-400.eot
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zap-editor.github.io/fonts/fa-brands-400.eot?
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zap-editor.github.io/fonts/fa-brands-400.woff2
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://zap-editor.github.io/fonts/fa-brands-400.woff
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://zap-editor.github.io/fonts/fa-brands-400.ttf
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://zap-editor.github.io/fonts/fa-brands-400.svg
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://zap-editor.github.io/fonts/fa-regular-400.eot
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zap-editor.github.io/fonts/fa-regular-400.eot?
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zap-editor.github.io/fonts/fa-regular-400.woff2
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://zap-editor.github.io/fonts/fa-regular-400.woff
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://zap-editor.github.io/fonts/fa-regular-400.ttf
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://zap-editor.github.io/fonts/fa-regular-400.svg
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://zap-editor.github.io/fonts/fa-solid-900.eot
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zap-editor.github.io/fonts/fa-solid-900.eot?
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zap-editor.github.io/fonts/fa-solid-900.woff2
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://zap-editor.github.io/fonts/fa-solid-900.woff
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://zap-editor.github.io/fonts/fa-solid-900.ttf
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://zap-editor.github.io/fonts/fa-solid-900.svg
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://zap-editor.github.io/fonts/themify.eot?-fvbane
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zap-editor.github.io/fonts/themify.eot?
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zap-editor.github.io/fonts/themify.woff?-fvbane
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://zap-editor.github.io/fonts/themify.ttf?-fvbane
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: https://zap-editor.github.io/fonts/themify.svg?-fvbane
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://zap-editor.github.io/privacy/
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\privacy\index.htm
+Content Type: text/html
+
+Uri: https://zap-editor.github.io/cookies/
+File Name: c:\Downloaded Web Sites\zap-editor.github.io\cookies\index.htm
+Content Type: text/html
+
